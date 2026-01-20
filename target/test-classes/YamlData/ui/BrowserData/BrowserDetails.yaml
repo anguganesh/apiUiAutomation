@@ -1,0 +1,9 @@
+browserName: chrome
+baseUrl: https://www.google.com/
+headless: false
+remote: false
+pageLoadTimeOut: 60
+explicitWait: 80
+implicitWait: 60
+waitForAttributeTimeout: 30
+waitForAttributePollingInterval: 2

@@ -1,0 +1,14 @@
+
+target:
+  endpoint:
+      bookVolumesEndPoint: https://www.googleapis.com/books/v1/volumes
+      goRestGetEndPoint: https://gorest.co.in/public/v2/users
+      goRestGetAllUserDetailsEndPoint: https://gorest.co.in/public/v2/users
+      goRestPostEndPoint: https://gorest.co.in/public/v2/users
+      
+  application:
+    restapiResponseTime: 40 
+    keyValue: key
+    apiKey: AIzaSyC7qVBCTaqXDyU9XXWHY24RxHRd_QYMhS8
+    goRestAuthorizationValue: a43d0b4c625004d0420f7e16be887cd6935d2e1735e8c8b45f5e1034b1747860
+      

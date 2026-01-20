@@ -1,0 +1,665 @@
+kind: books#volumes
+totalItems: 1000000
+items:
+- kind: books#volume
+  id: ucvFdpS2tBMC
+  etag: uaGc5JbPuhk
+  selfLink: https://www.googleapis.com/books/v1/volumes/ucvFdpS2tBMC
+  volumeInfo:
+    title: Flowering Plants of the Galápagos
+    authors:
+    - Conley K. McMullen
+    publisher: Cornell University Press
+    publishedDate: '1999'
+    description: Provides the curious amateur and the professional scientist with
+      an easy-to-use field guide to 436 plants, with color photographs, concise descriptions,
+      and plant locations provided. Plants are keyed by type (tree, shrub, herb, vine,
+      and cactus), leaf arrangement, and flower color. Annotation copyrighted by Book
+      News, Inc., Portland, OR
+    industryIdentifiers:
+    - type: ISBN_10
+      identifier: '0801486211'
+    - type: ISBN_13
+      identifier: '9780801486210'
+    readingModes:
+      text: false
+      image: false
+    pageCount: 388
+    printType: BOOK
+    categories:
+    - Nature
+    averageRating: 5
+    ratingsCount: 1
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.4.6.0.preview.0
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=ucvFdpS2tBMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=ucvFdpS2tBMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=ucvFdpS2tBMC&pg=PA44&dq=flowers&hl=&cd=1&source=gbs_api
+    infoLink: http://books.google.co.in/books?id=ucvFdpS2tBMC&dq=flowers&hl=&source=gbs_api
+    canonicalVolumeLink: https://books.google.com/books/about/Flowering_Plants_of_the_Gal%C3%A1pagos.html?hl=&id=ucvFdpS2tBMC
+  saleInfo:
+    country: IN
+    saleability: NOT_FOR_SALE
+    isEbook: false
+  accessInfo:
+    country: IN
+    viewability: PARTIAL
+    embeddable: true
+    publicDomain: false
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=ucvFdpS2tBMC&hl=&source=gbs_api
+    accessViewStatus: SAMPLE
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>Flowers</b> 216 Tree Alternate Leaves White <b>Flowers</b>
+      45 Yellow or Orange <b>Flowers</b> 60 Pink , Red , or Purple <b>Flowers</b>
+      72 Green <b>Flowers</b> 78 Opposite Leaves White <b>Flowers</b> 80 Yellow or
+      Orange <b>Flowers</b> 89 Pink , Red , or Purple <b>Flowers</b> 90 Green&nbsp;..."
+- kind: books#volume
+  id: iBslAQAAMAAJ
+  etag: 4mHUmTKelY0
+  selfLink: https://www.googleapis.com/books/v1/volumes/iBslAQAAMAAJ
+  volumeInfo:
+    title: The Native Flowers of New Zealand
+    authors:
+    - G. B. Hetley
+    publishedDate: '1888'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: UOM:39015061880350
+    readingModes:
+      text: false
+      image: true
+    pageCount: 244
+    printType: BOOK
+    categories:
+    - Artists
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.8.8.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=iBslAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=iBslAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=iBslAQAAMAAJ&pg=PP237&dq=flowers&hl=&cd=2&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=iBslAQAAMAAJ&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=iBslAQAAMAAJ
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=iBslAQAAMAAJ&rdid=book-iBslAQAAMAAJ&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/The_Native_Flowers_of_New_Zealand.epub?id=iBslAQAAMAAJ&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=iBslAQAAMAAJ&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>flower</b> complete . Chatham Islands . Bisexual <b>flower</b>
+      complete . - Muller&#39;s 2 . &quot; PLATE 14 . Fig . 1. Pistil . Fig . 1 .
+      2 . &quot; <b>Flower</b> . Bot . Mag . PLATE 15 . Fig . 1 . Stamen . 2 . Floret
+      . &quot; PLATE 16 . PLATE 19 ( 1 ) . Fig . 1. Calyx&nbsp;..."
+- kind: books#volume
+  id: nJruEAAAQBAJ
+  etag: WVYye4ws1mI
+  selfLink: https://www.googleapis.com/books/v1/volumes/nJruEAAAQBAJ
+  volumeInfo:
+    title: Edible Flowers
+    subtitle: Health Benefits, Nutrition, Processing, and Applications
+    authors:
+    - Arun Kumar Gupta
+    - Vijay Kumar
+    - Bindu Naik
+    - Poonam Mishra
+    publisher: Elsevier
+    publishedDate: '2024-07-12'
+    description: 'Edible Flowers: Health Benefits, Nutrition, Processing, and Applications
+      discusses several edible flowers and their history, bioactive compounds, pharmacological
+      properties, chemistry, and manifold applications. Composed of 20 chapters, the
+      book explores significant edible flowers which have a bioactive and pharmacological
+      attribute apart from preservation aspects. Each of the presented flowers are
+      analyzed by its taxonomy, history, nutritional properties, important bioactive
+      natural compounds, pharmacological potential, use in food processing, and marketability.Medicinal
+      and edible flowers that are grown in the various countries and are thought to
+      promote health are also the subject of this book, thus ensuring the food security
+      aspect. Written by a team of experts in the field, this book is a good support
+      for researchers and scientists working in the fields of food science, food technology,
+      and nutrition, with a special interest by the study of edible flowers. - Covers
+      the nutritional and pharmacological aspects of edible flowers - Addresses the
+      most popular edible flowers in the world as a source for nutraceuticals - Presents
+      application in food products and potential health benefits - Discuss the various
+      preservation techniques to improve the storage stability of edible flowers'
+    industryIdentifiers:
+    - type: ISBN_13
+      identifier: '9780443137709'
+    - type: ISBN_10
+      identifier: '0443137706'
+    readingModes:
+      text: true
+      image: true
+    pageCount: 473
+    printType: BOOK
+    categories:
+    - Technology & Engineering
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 2.6.6.0.preview.3
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=nJruEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=nJruEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=nJruEAAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=3&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=nJruEAAAQBAJ&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=nJruEAAAQBAJ
+  saleInfo:
+    country: IN
+    saleability: FOR_SALE
+    isEbook: true
+    listPrice:
+      amount: 14380.66
+      currencyCode: INR
+    retailPrice:
+      amount: 14380.66
+      currencyCode: INR
+    buyLink: https://play.google.com/store/books/details?id=nJruEAAAQBAJ&rdid=book-nJruEAAAQBAJ&rdot=1&source=gbs_api
+    offers:
+    - finskyOfferType: 1
+      listPrice:
+        amountInMicros: 14380660000
+        currencyCode: INR
+      retailPrice:
+        amountInMicros: 14380660000
+        currencyCode: INR
+  accessInfo:
+    country: IN
+    viewability: PARTIAL
+    embeddable: true
+    publicDomain: false
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: true
+      acsTokenLink: http://books.google.co.in/books/download/Edible_Flowers-sample-epub.acsm?id=nJruEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+    pdf:
+      isAvailable: true
+      acsTokenLink: http://books.google.co.in/books/download/Edible_Flowers-sample-pdf.acsm?id=nJruEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+    webReaderLink: http://play.google.com/books/reader?id=nJruEAAAQBAJ&hl=&source=gbs_api
+    accessViewStatus: SAMPLE
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: Each of the presented flowers are analyzed by its taxonomy, history,
+      nutritional properties, important bioactive natural compounds, pharmacological
+      potential, use in food processing, and marketability.Medicinal and edible flowers
+      that are ...
+- kind: books#volume
+  id: 36tWAAAAcAAJ
+  etag: MFoGAfHGJK4
+  selfLink: https://www.googleapis.com/books/v1/volumes/36tWAAAAcAAJ
+  volumeInfo:
+    title: Glenny's Hand-book to the Flower Garden & Greenhouse, etc
+    authors:
+    - George GLENNY (the Elder.)
+    publishedDate: '1855'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: BL:A0017593858
+    readingModes:
+      text: false
+      image: true
+    pageCount: 428
+    printType: BOOK
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.6.6.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=36tWAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=36tWAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=36tWAAAAcAAJ&pg=PA39&dq=flowers&hl=&cd=4&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=36tWAAAAcAAJ&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=36tWAAAAcAAJ
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=36tWAAAAcAAJ&rdid=book-36tWAAAAcAAJ&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/Glenny_s_Hand_book_to_the_Flower_Garden.epub?id=36tWAAAAcAAJ&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: true
+      downloadLink: http://books.google.co.in/books/download/Glenny_s_Hand_book_to_the_Flower_Garden.pdf?id=36tWAAAAcAAJ&hl=&output=pdf&sig=ACfU3U1xh50lzfuv1W-19yE5XZvcjKnH2Q&source=gbs_api
+    webReaderLink: http://play.google.com/books/reader?id=36tWAAAAcAAJ&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>flowers</b> bluish - purple , in July . Europe , 1658. A.
+      Amellus ( Amellus ) . Hardy perennial , 2 ft high ; <b>flowers</b> purple ,
+      in August . Italy , 1596. A. Bessarabicus ( Bessarabian ) . Hardy perennial
+      , 2 ft . high ; <b>flowers</b> purple , in&nbsp;..."
+- kind: books#volume
+  id: GcRDsLg-gTEC
+  etag: ijiZsHG9C7o
+  selfLink: https://www.googleapis.com/books/v1/volumes/GcRDsLg-gTEC
+  volumeInfo:
+    title: Library of Congress Subject Headings
+    authors:
+    - Library of Congress
+    publishedDate: '2003'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: OSU:32435070490032
+    readingModes:
+      text: false
+      image: true
+    pageCount: 1432
+    printType: BOOK
+    categories:
+    - Subject headings, Library of Congress
+    averageRating: 5
+    ratingsCount: 1
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.4.5.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=GcRDsLg-gTEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=GcRDsLg-gTEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=GcRDsLg-gTEC&pg=PA2374&dq=flowers&hl=&cd=5&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=GcRDsLg-gTEC&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=GcRDsLg-gTEC
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=GcRDsLg-gTEC&rdid=book-GcRDsLg-gTEC&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/Library_of_Congress_Subject_Headings.epub?id=GcRDsLg-gTEC&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=GcRDsLg-gTEC&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>Flowering</b> cornel BT Cornus ( Plants ) <b>Flowering</b>
+      trees <b>Flowering</b> dogwood in art ( Not Subd Geog ) <b>Flowering</b> kale
+      USE Ornamental kale <b>Flowering</b> of plants USE Plants , <b>Flowering</b>
+      of <b>Flowering</b> plants USE Angiosperms <b>Flowers Flowering</b> plum in
+      art&nbsp;..."
+- kind: books#volume
+  id: Mc1WEA5DhgEC
+  etag: P7x2TZJNpt4
+  selfLink: https://www.googleapis.com/books/v1/volumes/Mc1WEA5DhgEC
+  volumeInfo:
+    title: The Encyclopædia Britannica
+    subtitle: A Dictionary of Arts, Sciences, and General Literature ; the R.S. Peale
+      Reprint, with New Maps and Original American Articles
+    publishedDate: '1891'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: IND:30000108769682
+    readingModes:
+      text: false
+      image: true
+    pageCount: 908
+    printType: BOOK
+    categories:
+    - Encyclopedias and dictionaries
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.5.7.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=Mc1WEA5DhgEC&pg=PA122&dq=flowers&hl=&cd=6&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=Mc1WEA5DhgEC&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=Mc1WEA5DhgEC
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=Mc1WEA5DhgEC&rdid=book-Mc1WEA5DhgEC&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/The_Encyclop%C3%A6dia_Britannica.epub?id=Mc1WEA5DhgEC&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=Mc1WEA5DhgEC&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>flowers</b> always arise as lateral shoots from a primary
+      axis , which goes on elongating , and the lateral shoots never exceed in their
+      development the length of the primary axis beyond their point of origin . The
+      <b>flowers</b> are thus always&nbsp;..."
+- kind: books#volume
+  id: UGJEAQAAMAAJ
+  etag: sA2XxV05NEg
+  selfLink: https://www.googleapis.com/books/v1/volumes/UGJEAQAAMAAJ
+  volumeInfo:
+    title: The Beautiful Flower Garden, Its Treatment with Special Regard for the
+      Picturesque
+    authors:
+    - Ferdinand Schuyler Mathews
+    publishedDate: '1900'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: UIUC:30112075832508
+    readingModes:
+      text: false
+      image: true
+    pageCount: 212
+    printType: BOOK
+    categories:
+    - Floriculture
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.6.7.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=UGJEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=UGJEAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=UGJEAQAAMAAJ&pg=PA68&dq=flowers&hl=&cd=7&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=UGJEAQAAMAAJ&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=UGJEAQAAMAAJ
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=UGJEAQAAMAAJ&rdid=book-UGJEAQAAMAAJ&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/The_Beautiful_Flower_Garden_Its_Treatmen.epub?id=UGJEAQAAMAAJ&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=UGJEAQAAMAAJ&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>flowers</b> to weep , But I passed the rich man&#39;s garden
+      and the mourning there was deep ; For the withering <b>flowers</b> all drooping
+      hung amid the wasting sod , Like Boadicea bent with shame beneath the Roman
+      rod . &quot; The character of a <b>flower</b>&nbsp;..."
+- kind: books#volume
+  id: hhhrmfbv-sQC
+  etag: YYq0PmYOFW8
+  selfLink: https://www.googleapis.com/books/v1/volumes/hhhrmfbv-sQC
+  volumeInfo:
+    title: Common Families of Flowering Plants
+    authors:
+    - Michael Hickey
+    - Clive King
+    publisher: Cambridge University Press
+    publishedDate: '1997-01-28'
+    description: Provides a basic introduction to twenty five commonly occurring families
+      of flowering plants, chosen for their economic, ornamental and ecological importance.
+      It is designed to enable students of botany and related disciplines to gain
+      some knowledge of the general characteristics of each family and also the relationships
+      between them. An introductory section provides basic botanical information which
+      is often assumed to be known and which is essential for a proper consideration
+      of the families themselves. These are described in the second section of the
+      book. For each family, information on its distribution, classification, general
+      features and economic importance precedes a detailed description of a typical
+      representative species. For the larger or more varied families several representative
+      species are included. The text is illustrated throughout with clear and accurate
+      line diagrams and accompanied by an exhaustive glossary.
+    industryIdentifiers:
+    - type: ISBN_10
+      identifier: '0521576091'
+    - type: ISBN_13
+      identifier: '9780521576093'
+    readingModes:
+      text: false
+      image: true
+    pageCount: 228
+    printType: BOOK
+    categories:
+    - Nature
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 0.4.5.0.preview.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=hhhrmfbv-sQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=hhhrmfbv-sQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=hhhrmfbv-sQC&printsec=frontcover&dq=flowers&hl=&cd=8&source=gbs_api
+    infoLink: http://books.google.co.in/books?id=hhhrmfbv-sQC&dq=flowers&hl=&source=gbs_api
+    canonicalVolumeLink: https://books.google.com/books/about/Common_Families_of_Flowering_Plants.html?hl=&id=hhhrmfbv-sQC
+  saleInfo:
+    country: IN
+    saleability: NOT_FOR_SALE
+    isEbook: false
+  accessInfo:
+    country: IN
+    viewability: PARTIAL
+    embeddable: true
+    publicDomain: false
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+    pdf:
+      isAvailable: true
+      acsTokenLink: http://books.google.co.in/books/download/Common_Families_of_Flowering_Plants-sample-pdf.acsm?id=hhhrmfbv-sQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+    webReaderLink: http://play.google.com/books/reader?id=hhhrmfbv-sQC&hl=&source=gbs_api
+    accessViewStatus: SAMPLE
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: An introductory section provides basic botanical information which
+      is often assumed to be known and which is essential for a proper consideration
+      of the families themselves. These are described in the second section of the
+      book.
+- kind: books#volume
+  id: 1mlBniJ4p2sC
+  etag: D0dZt54nkBs
+  selfLink: https://www.googleapis.com/books/v1/volumes/1mlBniJ4p2sC
+  volumeInfo:
+    title: The Language of Flowers
+    subtitle: Or, Floral Emblems of Thoughts, Feelings, and Sentiments ...
+    authors:
+    - Robert Tyas
+    publishedDate: '1875'
+    industryIdentifiers:
+    - type: OTHER
+      identifier: BL:A0022206784
+    readingModes:
+      text: false
+      image: true
+    pageCount: 260
+    printType: BOOK
+    categories:
+    - Flower language
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 3.5.6.0.full.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=1mlBniJ4p2sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=1mlBniJ4p2sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=1mlBniJ4p2sC&pg=PA94&dq=flowers&hl=&cd=9&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=1mlBniJ4p2sC&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=1mlBniJ4p2sC
+  saleInfo:
+    country: IN
+    saleability: FREE
+    isEbook: true
+    buyLink: https://play.google.com/store/books/details?id=1mlBniJ4p2sC&rdid=book-1mlBniJ4p2sC&rdot=1&source=gbs_api
+  accessInfo:
+    country: IN
+    viewability: ALL_PAGES
+    embeddable: true
+    publicDomain: true
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+      downloadLink: http://books.google.co.in/books/download/The_Language_of_Flowers.epub?id=1mlBniJ4p2sC&hl=&output=epub&source=gbs_api
+    pdf:
+      isAvailable: false
+    webReaderLink: http://play.google.com/books/reader?id=1mlBniJ4p2sC&hl=&source=gbs_api
+    accessViewStatus: FULL_PUBLIC_DOMAIN
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: "... <b>flowers</b> , and their love of floral wreaths was so great
+      that the use of certain <b>flowers</b> was prescribed for special purposes .
+      These rulers of the then known world cultivated both violets and roses , and
+      whole fields , covered with&nbsp;..."
+- kind: books#volume
+  id: E-jrCAAAQBAJ
+  etag: uKevZczAm7s
+  selfLink: https://www.googleapis.com/books/v1/volumes/E-jrCAAAQBAJ
+  volumeInfo:
+    title: Postharvest Biotechnology of Flowers and Ornamental Plants
+    authors:
+    - Dattajirao K. Salunkhe
+    - Narayana R. Bhat
+    - Babasaheb B. Desai
+    publisher: Springer Science & Business Media
+    publishedDate: '2012-12-06'
+    description: 'The floricultural industry has been undergoing an unprecedented
+      revolu tion in terms of the type of commodity produced and the production and
+      marketing technology in both developed and developing countries. As a result
+      of this revolution, as we know today, there is a flower for every purpose and
+      for every person in the world, as is evident from the slogan of the Society
+      for American Florists: "say it with flowers". In re cent years, the Latin American
+      and European countries have become sizeable competitors for the North American
+      fresh flower markets and the trend continues growing. Like any other crop production,
+      floricultural production can be divided into three basic factors: (1) production
+      costs (2) quality (3) transportation costs. All these must be optimum for this
+      area or industry to be safe from competition. With increasing consumer awareness
+      and the current recession, the pressure from the artificial floral products
+      in dustry and also of neighbouring countries on the American fresh flower industry,
+      and continued competition even amongst the growers, whole salers and retailers,
+      quality in floricultural industry is becoming increas ingly important to all
+      those concerned with handling these products. The visual quality aspects of
+      the product are the sole determiner of consumer acceptability in this industry
+      and, unlike fruits and vegetables, flowers cannot be marketed by just discarding
+      the damaged portion.'
+    industryIdentifiers:
+    - type: ISBN_13
+      identifier: '9783642738036'
+    - type: ISBN_10
+      identifier: '3642738036'
+    readingModes:
+      text: false
+      image: true
+    pageCount: 203
+    printType: BOOK
+    categories:
+    - Science
+    maturityRating: NOT_MATURE
+    allowAnonLogging: false
+    contentVersion: 1.3.3.0.preview.1
+    panelizationSummary:
+      containsEpubBubbles: false
+      containsImageBubbles: false
+    imageLinks:
+      smallThumbnail: http://books.google.com/books/content?id=E-jrCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+      thumbnail: http://books.google.com/books/content?id=E-jrCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+    language: en
+    previewLink: http://books.google.co.in/books?id=E-jrCAAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=10&source=gbs_api
+    infoLink: https://play.google.com/store/books/details?id=E-jrCAAAQBAJ&source=gbs_api
+    canonicalVolumeLink: https://play.google.com/store/books/details?id=E-jrCAAAQBAJ
+  saleInfo:
+    country: IN
+    saleability: FOR_SALE
+    isEbook: true
+    listPrice:
+      amount: 4200.8
+      currencyCode: INR
+    retailPrice:
+      amount: 4200.8
+      currencyCode: INR
+    buyLink: https://play.google.com/store/books/details?id=E-jrCAAAQBAJ&rdid=book-E-jrCAAAQBAJ&rdot=1&source=gbs_api
+    offers:
+    - finskyOfferType: 1
+      listPrice:
+        amountInMicros: 4200800000
+        currencyCode: INR
+      retailPrice:
+        amountInMicros: 4200800000
+        currencyCode: INR
+  accessInfo:
+    country: IN
+    viewability: PARTIAL
+    embeddable: true
+    publicDomain: false
+    textToSpeechPermission: ALLOWED
+    epub:
+      isAvailable: false
+    pdf:
+      isAvailable: true
+      acsTokenLink: http://books.google.co.in/books/download/Postharvest_Biotechnology_of_Flowers_and-sample-pdf.acsm?id=E-jrCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+    webReaderLink: http://play.google.com/books/reader?id=E-jrCAAAQBAJ&hl=&source=gbs_api
+    accessViewStatus: SAMPLE
+    quoteSharingAllowed: false
+  searchInfo:
+    textSnippet: The floricultural industry has been undergoing an unprecedented revolu
+      tion in terms of the type of commodity produced and the production and marketing
+      technology in both developed and developing countries.

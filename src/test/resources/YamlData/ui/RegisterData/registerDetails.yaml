@@ -1,0 +1,14 @@
+- scenarioName: Pharmacy
+  firtName: Angu
+  lastName: ganesh
+  location: chennai
+  
+- scenarioName: Administrator
+  firtName: anish
+  lastName: kumar
+  location: delhi
+  
+- scenarioName: cashier
+  firtName: abhinav
+  lastName: singh
+  location: chandigarh
