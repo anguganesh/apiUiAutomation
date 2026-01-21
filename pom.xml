@@ -27,6 +27,7 @@
 		<maven.validationApi.version>4.0.0-M1</maven.validationApi.version>
 		<maven.surefire.plugin.version>3.5.4</maven.surefire.plugin.version>
 		<maven.compiler.plugin.version>3.14.1</maven.compiler.plugin.version>
+		<maven.clean.plugin.version>3.5.0</maven.clean.plugin.version>
 		<jackson.dataformat.yaml.version>2.20.1</jackson.dataformat.yaml.version>
 		<allure.bom.version>2.32.0</allure.bom.version>
 		<maven.extent.report.version>5.1.2</maven.extent.report.version>
@@ -204,7 +205,14 @@
 				https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
 				<plugin>
 					<artifactId>maven-clean-plugin</artifactId>
-					<version>3.4.0</version>
+					<version>${maven.clean.plugin.version}</version>
+					<configuration>
+						<filesets>
+							<fileset>
+								<directory>${project.basedir}/test-output</directory>
+							</fileset>
+						</filesets>
+					</configuration>
 				</plugin>
 				<!-- default lifecycle, jar packaging: see
 				https://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_jar_packaging -->
