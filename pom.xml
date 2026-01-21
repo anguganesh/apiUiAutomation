@@ -230,7 +230,7 @@
 					<version>${maven.surefire.plugin.version}</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>${testNGFile}</suiteXmlFile>
+							<suiteXmlFile>${testngFile}</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>

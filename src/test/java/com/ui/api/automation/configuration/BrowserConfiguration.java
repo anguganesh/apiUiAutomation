@@ -6,7 +6,6 @@ import org.apache.hc.core5.http.ContentType;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter;
@@ -81,9 +80,9 @@ public class BrowserConfiguration {
 				hooks.copyScreenshotAsFile(scenario);
 				scenario.attach(hooks.getScreenshotAsBytes(), ContentType.IMAGE_PNG.toString(), scenario.getName());
 				ExtentCucumberAdapter.getCurrentStep().log(Status.FAIL, MediaEntityBuilder
-				 .createScreenCaptureFromBase64String(hooks.getBase64StringOfScreenshot()).build());
-				Allure.addAttachment("Allure Report Screenshot for test failure for scenario: " +
-				 scenario.getName(),  new ByteArrayInputStream(reportConfiguration.takesScreenshotForAllureReport()));
+						.createScreenCaptureFromBase64String(hooks.getBase64StringOfScreenshot()).build());
+				Allure.addAttachment("Allure Report Screenshot for test failure for scenario: " + scenario.getName(),
+						new ByteArrayInputStream(reportConfiguration.takesScreenshotForAllureReport()));
 			}
 
 			hooks.closeBrowser();
