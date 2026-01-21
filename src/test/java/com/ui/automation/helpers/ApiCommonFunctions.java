@@ -9,6 +9,7 @@ import com.ui.api.automation.config.datapath.ApiData;
 import com.ui.api.automation.config.datapath.ApiEndPointDetails;
 import com.ui.api.automation.config.datapath.ApiJsonFilePath;
 import com.ui.api.automation.config.datapath.ApiYamlFilePath;
+import io.qameta.allure.Allure;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
@@ -33,11 +34,11 @@ public class ApiCommonFunctions {
 	}
 
 	public void attachResponse() {
-		//Allure.addAttachment(this.response.asPrettyString(), ContentType.TEXT.toString(), "Response : ");
+		Allure.addAttachment( "Response : ", ContentType.JSON.toString(), this.response.asPrettyString());
 	}
 
 	public void attachRequest(Object requestBody) {
-		//Allure.addAttachment(requestBody.toString(), ContentType.TEXT.toString(), "Request : ");
+		Allure.addAttachment( "Request : ",  ContentType.JSON.toString(), requestBody.toString());
 	}
 
 	public Response getCall(Map<String, String> headers, Map<String, String> queryParams, String endPoint) {
@@ -73,8 +74,8 @@ public class ApiCommonFunctions {
 
 		this.response = RestAssured.given().contentType(contentType).headers(headers).body(requestBody).post(uri);
 
-		// attachRequest(requestBody);
-		// attachResponse();
+		 attachRequest(requestBody);
+		 attachResponse();
 
 		this.response.then().log().all().assertThat()
 				.time(Matchers.lessThan(Long.parseLong(apiData.getRestApiResponseTime())), TimeUnit.SECONDS).extract()

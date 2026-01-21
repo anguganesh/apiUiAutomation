@@ -1,6 +1,0 @@
-- scenario: samplePostData
-  id:
-  name: testPostUser
-  email: testPostUser69@white.example
-  gender: male
-  status: active

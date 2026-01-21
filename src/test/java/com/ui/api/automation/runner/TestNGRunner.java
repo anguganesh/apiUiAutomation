@@ -15,7 +15,7 @@ import io.cucumber.testng.TestNGCucumberRunner;
 
 @CucumberOptions (
 		
-		features = "./Features/Ui",
+		features = "./Features",
 			glue = { "com.ui.automation.steps",
 	                 "com.api.automation.steps",
 	                 "com.ui.api.automation.configuration" },
@@ -27,7 +27,7 @@ import io.cucumber.testng.TestNGCucumberRunner;
 	  monochrome = true,	
 		  dryRun = false,
 		 publish = true,
-		    tags = "@Test"		
+		    tags = "@API"		
 		
 	 )
 

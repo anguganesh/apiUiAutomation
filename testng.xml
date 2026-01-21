@@ -4,7 +4,7 @@
 <listeners>
 	<listener class-name="com.ui.api.automation.rerun.AnnotationTransformer" />
 </listeners>
-  <test thread-count="3" parallel="methods" name="Test">
+  <test thread-count="2" parallel="methods" name="Test">
     <classes>
       <class name="com.ui.api.automation.runner.TestNGRunner"/>
     </classes>
