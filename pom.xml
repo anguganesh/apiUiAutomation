@@ -15,20 +15,20 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.release>24</maven.compiler.release>
-		<maven.cucumber.version>7.33.0</maven.cucumber.version>
-		<maven.testng.version>7.11.0</maven.testng.version>
+		<maven.cucumber.version>7.34.2</maven.cucumber.version>
+		<maven.testng.version>7.12.0</maven.testng.version>
 		<maven.cucumber.jvm.deps>1.0.6</maven.cucumber.jvm.deps>
 		<maven.gherkin.jvm.deps>1.0.6</maven.gherkin.jvm.deps>
 		<maven.lombok.version>1.18.42</maven.lombok.version>
-		<maven.selenium.version>4.39.0</maven.selenium.version>
+		<maven.selenium.version>4.40.0</maven.selenium.version>
 		<maven.webdrivermanager.version>6.3.3</maven.webdrivermanager.version>
-		<maven.spring.boot.version>4.0.1</maven.spring.boot.version>
+		<maven.spring.boot.version>4.1.0-M1</maven.spring.boot.version>
 		<maven.restAssured.version>6.0.0</maven.restAssured.version>
 		<maven.validationApi.version>4.0.0-M1</maven.validationApi.version>
 		<maven.surefire.plugin.version>3.5.4</maven.surefire.plugin.version>
-		<maven.compiler.plugin.version>3.14.1</maven.compiler.plugin.version>
+		<maven.compiler.plugin.version>3.15.0</maven.compiler.plugin.version>
 		<maven.clean.plugin.version>3.5.0</maven.clean.plugin.version>
-		<jackson.dataformat.yaml.version>2.20.1</jackson.dataformat.yaml.version>
+		<jackson.dataformat.yaml.version>2.21.0</jackson.dataformat.yaml.version>
 		<allure.bom.version>2.32.0</allure.bom.version>
 		<maven.extent.report.version>5.1.2</maven.extent.report.version>
 		<maven.extent.reports.cucumber.adapter.version>1.14.0</maven.extent.reports.cucumber.adapter.version>
